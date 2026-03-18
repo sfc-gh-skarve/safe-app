@@ -133,7 +133,7 @@ CREATE OR REPLACE STREAMLIT safe_app.public.safe_app
 
 ### Streamlit in Snowflake application (copy paste)
 
-The application code is contained in [a single file][./streamlit_app.py].
+The application code is contained in [a single file](./streamlit_app.py).
 1. Using `ACCOUNTADMIN` or another account with privileges to operate on users,
    create a blank Streamlit application
 2. Add `toolz` to the list of dependencies
